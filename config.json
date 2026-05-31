@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicedalidate",
+        "uuid": 22683195,
+        "checksum": "7rl6oq"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
